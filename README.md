@@ -6,18 +6,27 @@ The Global Retirement Index by Natixis provides a comprehensive assessment of th
 
 ### **Objective of the Project:**
 The project aims to provide a detailed evaluation of retirement conditions in different countries and to understand the key drivers that make a country favorable for retirees. 
+
 • To identify which countries offer the best healthcare and non-insured health expenditure for retirees.
+
 • To evaluate the happiness index, air and water quality, sanitation, and biodiversity as components of the Quality of Life for retirees.
+
 • To analyze Material Wellbeing by assessing per capita income, income equality, and unemployment rates in the context of retirees.
+
 • To scrutinize Finances in Retirement by examining government debt, old-age dependency ratios, interest rates, inflation, tax burdens, and governance.
+
 • To compare the overall scores and rankings of the top 25 countries for retirement.
 
 
 ### **About the Data:**
 The data is compiled by Natixis, which analyzed 44 nations (including IMF advanced economies, OECD members, and BRICS countries) based on various categories affecting retirement. Each category contributes to an averaged score out of 100 to create the index. The data is presumably gathered from credible financial and social databases, health statistics, and environmental measures. Each category has subindices, from which they averaged scores out of 100 to create this ranking. The categories are:
+
 • Health: Per capita spend on healthcare, life expectancy, and non-insured health spend.
+
 • Quality of Life: Happiness levels, water and sanitation, air quality, environment, and biodiversity.
+
 • Material Well-being: Per capita income, income equality, and employment levels.
+
 • Retirement Finances: Government debt, old-age dependency, interest rates, inflation, governance, taxes, and bank non-performing loans.
 
 
